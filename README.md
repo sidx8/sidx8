@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Siddharth 👋
 
-<!--
-**sidx8/sidx8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student, Developer, and a Business Enthusiast!
+- 🔭 I’m currently working on a Mobile App!
+- 🌱 I’m currently trying to learning everything 🤣
+- 👯 I’m looking for patners who can work with me on some projects.
+- ⚡ Fun fact: I love to Watch movies and play games
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="sidx8 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sidx8 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sidx8 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidx8&show_icons=true&hide_border=true" />
+
+[twitter]: https://twitter.com/siddhar45750060
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://www.instagram.com/_sidx8/
+[linkedin]: https://www.linkedin.com/in/siddharth-sinha-4b4749172/
