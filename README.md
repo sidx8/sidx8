@@ -16,7 +16,7 @@
 
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidx8&show_icons=true&hide_border=true" />
+<img align="left" alt="Siddharth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sidx8&show_icons=true&hide_border=true&count_private=true&hide=stars&theme=radical" />
 
 [twitter]: https://twitter.com/siddhar45750060
 [youtube]: https://youtube.com/codeSTACKr
