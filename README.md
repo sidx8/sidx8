@@ -1,6 +1,6 @@
 ### Hi there, I'm Siddharth 👋
 
-## I'm a Student, Developer, and a Business Enthusiast!
+## I'm a Student, Developer!
 - 🔭 I’m currently working on a Mobile App!
 - 🌱 I’m currently trying to learning everything 🤣
 - 👯 I’m looking for patners who can work with me on some projects.
