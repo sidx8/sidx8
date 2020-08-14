@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Mobile App!
 - 🌱 I’m currently trying to learning everything 🤣
 - 👯 I’m looking for patners who can work with me on some projects.
-- ⚡ Fun fact: I love to Watch movies and play games
+- ⚡ Fun fact: I love to Watch movies and play games(weeb)
 
 ### Connect with me:
 
