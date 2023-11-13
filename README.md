@@ -1,6 +1,6 @@
 ### Hi there, I'm Siddharth 👋
 
-## I'm a Student & Developer!
+## I'm a Developer!
 
 ### Connect with me:
 
